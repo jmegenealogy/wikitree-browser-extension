@@ -400,6 +400,17 @@ registerFeature({
   ],
 });
 
+registerFeature({
+  name: "Hello World",
+  id: "helloWorld",
+  description: "This feature does stuff.",
+  category: "Global",
+  creators: [{ name: "your name", wikitreeid: "your WikiTreeID" }],
+  contributors: [],
+  defaultValue: false,
+  pages: [isProfilePage],
+});
+
 /*
  * debugging features for development only
  *

@@ -53,6 +53,7 @@ import "./features/table_filters/table_filters";
 import "./features/unconnected_branch_table/unconnected_branch_table";
 import "./features/usability_tweaks/usability_tweaks";
 import "./features/wills/wills";
+import "./features/hello_world/hello_world";
 
 // Edit mode addons are towards the end
 import "./features/wtPlus/wtPlus";
